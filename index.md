@@ -1,5 +1,5 @@
 
-DENEME [deneme](https://itsshsec.github.io/blob/main/deneme.md)
+DENEME [deneme](https://itsshsec.github.io/deneme.md)
 
 ## Welcome to GitHub Pages
 
